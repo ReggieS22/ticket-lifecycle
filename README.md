@@ -39,12 +39,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 
+<h2>Ticket assignment</h2>
 <p>
-  </h2>Ticket assignment</h2>
+
 <p>
  <strong>Support agent Ben Crawford logs in.</strong>
   
-  <img <img width="396" height="286" alt="Screenshot 2025-09-03 100545" src="https://github.com/user-attachments/assets/06755ffe-4cc5-4081-a798-5c6e081b02b7" />
+<img width="396" height="286" alt="Screenshot 2025-09-03 100545" src="https://github.com/user-attachments/assets/06755ffe-4cc5-4081-a798-5c6e081b02b7"/>
 </p>
 <p>
 </p>
