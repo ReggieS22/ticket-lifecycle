@@ -27,13 +27,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Working the Issue
 - Resolution
 
-<h2>Lifecycle Stages</h2>
+<h2>Intake</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  End User Karen creates a ticket:
+<img <img width="823" height="712" alt="Screenshot 2025-09-03 100431" src="https://github.com/user-attachments/assets/e3c9d386-4cca-4c5f-aa71-fcfe46ee0c7a"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
