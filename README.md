@@ -71,10 +71,11 @@ He makes sure to leave a proper message: </strong>
 
 <p>
   <strong>System Administrator agent Jane Doe logs in: 
+  
   She goes in to work on the issue and get back to the end user in a timely manner.</strong>
   </p>
 
-<img width="643" height="250" alt="Screenshot 2025-09-03 100919" src="https://github.com/user-attachments/assets/baccc985-ae60-42ee-862f-ea3e6cd6074d"/>
+<img <img width="394" height="287" alt="Screenshot 2025-09-03 101200" src="https://github.com/user-attachments/assets/70f3ff48-1611-4317-9f67-13a392b3f59e"/>
 </p>
 <p>
 </p>
