@@ -52,7 +52,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Communication</h2>
 
 <p>
-  <strong> Agent Ben sees this is Sev-A emergency ticket and has to reassign ticket to a System Administrator.
+  <strong> Agent Ben sees this is as a Sev-A emergency ticket and has to reassign the ticket to a System Administrator.
 
 He makes sure to leave a proper message: </strong>
   </p>
