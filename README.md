@@ -89,7 +89,7 @@ He makes sure to leave a proper message: </strong>
 <p>
   <strong>System Administrator agent Jane Doe fixes the issue. 
   
-  She messages the end user that the issue has been resolved and closees the ticket.</strong>
+  She messages the end user that the issue has been resolved and closes the ticket.</strong>
   </p>
 
 <img width="947" height="646" alt="Screenshot 2025-09-03 101449" src="https://github.com/user-attachments/assets/1b5d302f-26f7-4586-aea3-c042c7d11c47"/>
