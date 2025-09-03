@@ -42,7 +42,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Ticket assignment</h2>
 <p>
 <strong>Support agent Ben Crawford logs in.</strong>
-
+<p>
 <img width="396" height="286" alt="Screenshot 2025-09-03 100545" src="https://github.com/user-attachments/assets/0bc405f1-f0c9-48e6-9809-0666e91e9d84"/>
 
 
