@@ -32,6 +32,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
   <strong>End User Karen creates a ticket:</strong>
   
+
 <img width="823" height="712" alt="Screenshot 2025-09-03 100431" src="https://github.com/user-attachments/assets/e3c9d386-4cca-4c5f-aa71-fcfe46ee0c7a"/>
 </p>
 <p>
