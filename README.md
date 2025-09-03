@@ -57,7 +57,24 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 He makes sure to leave a proper message: </strong>
   </p>
 
-<img <img width="643" height="250" alt="Screenshot 2025-09-03 100919" src="https://github.com/user-attachments/assets/baccc985-ae60-42ee-862f-ea3e6cd6074d"/>
+<img width="643" height="250" alt="Screenshot 2025-09-03 100919" src="https://github.com/user-attachments/assets/baccc985-ae60-42ee-862f-ea3e6cd6074d"/>
+</p>
+<p>
+</p>
+<br />
+
+
+
+
+
+<h2>Working the issue</h2>
+
+<p>
+  <strong>System Administrator agent Jane Doe logs in: 
+  She goes in to work on the issue and get back to the end user in a timely manner.</strong>
+  </p>
+
+<img width="643" height="250" alt="Screenshot 2025-09-03 100919" src="https://github.com/user-attachments/assets/baccc985-ae60-42ee-862f-ea3e6cd6074d"/>
 </p>
 <p>
 </p>
