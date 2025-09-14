@@ -95,6 +95,5 @@ He makes sure to leave a proper message: </strong>
 <img width="947" height="646" alt="Screenshot 2025-09-03 101449" src="https://github.com/user-attachments/assets/1b5d302f-26f7-4586-aea3-c042c7d11c47"/>
 /p>
 <p>
-</p>
 <br />
 
